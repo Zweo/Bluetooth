@@ -8,5 +8,10 @@ MainActivity是我基于这两部分写的一个Demo。
 
 联系方式：ExZhouWei@outlook.com
 
+以下效果图
+搜索蓝牙
+![image](Bluetooth/s1.png)
 
-![image]()
+与蓝牙通信
+![image](Bluetooth/s1.png)
+
