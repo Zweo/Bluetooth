@@ -10,8 +10,8 @@ MainActivity是我基于这两部分写的一个Demo。
 
 以下效果图
 搜索蓝牙
-![image](Bluetooth/s1.png)
+![image](https://github.com/Zweo/Bluetooth/blob/master/s1.png)
 
 与蓝牙通信
-![image](Bluetooth/s1.png)
+![image](https://github.com/Zweo/Bluetooth/blob/master/s2.png)
 
