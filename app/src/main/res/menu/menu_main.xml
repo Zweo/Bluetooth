@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="android.myapplication.MainActivity" >
+
+    <item
+        android:id="@+id/scan"
+        android:title="@string/scan"
+        />
+    <item
+        android:id="@+id/discoverable"
+        android:title="@string/device_visibility"
+        />
+    <item
+        android:id="@+id/BtOpen"
+        android:title="@string/bluetoothON"
+        />
+    <item
+        android:id="@+id/BtOff"
+        android:title="@string/bluetoothOff"
+        />
+</menu>

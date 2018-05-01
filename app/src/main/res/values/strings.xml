@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bluetooth - - Zero</string>
+    <string name="action_settings">Settings</string>
+    <string name="not_connected">未连接</string>
+    <string name="none_paired">未配对</string>
+    <string name="none_found">未找到</string>
+    <string name="edit_hint">输入发送字符串</string>
+    <string name="button_send">Go</string>
+    <string name="scan">查找设备</string>
+    <string name="pairedDevice">已配对设备</string>
+    <string name="foundDevice">搜索到设备</string>
+    <string name="device_visibility">设备可见</string>
+    <string name="bluetoothON">开启蓝牙</string>
+    <string name="bluetoothOff">关闭蓝牙</string>
+</resources>
